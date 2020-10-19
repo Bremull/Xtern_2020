@@ -2,9 +2,13 @@
  Repository for XTern 2020 Data Science
 
 I asked these questions:
+
 Is there a positive relationship between Average cost and Ratings?
+
 What location is the best?
+
 Which restuarant serves the fastest and at the cheapest price?
+
 Does cook time affect rating?
 
 Using a Jupyter notebook, pandas, and visualizations, I was able to get these conclusions.
